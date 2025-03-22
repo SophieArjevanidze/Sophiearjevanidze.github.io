@@ -1,8 +1,7 @@
 ---
-title: "Projects"
-permalink: /Projects/
-layout: single
-author_profile: true
+title: "About"
+permalink: /about/
+layout: default
 ---
 
 Hi, I'm Kaelen!  

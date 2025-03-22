@@ -1,8 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-layout: single
-author_profile: true
+layout: default
 ---
 
 Hi, I'm Kaelen!  

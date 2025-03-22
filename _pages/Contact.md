@@ -1,7 +1,7 @@
 ---
-title: "About"
-permalink: /about/
+title: "Contact"
+permalink: /Contact/
 layout: default
 ---
 
-Hi, I'm Kaelen!  
+Please email: sophiearjevanidze@gmail.com

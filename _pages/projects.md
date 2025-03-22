@@ -1,8 +1,6 @@
 ---
-title: "About"
-permalink: /about/
+title: "Projects"
+permalink: /Projects/
 layout: default
 ---
-
-Hi, I'm Kaelen!  
-I'm passionate about digitalisation and data analytics.
+New projects to be added soon!

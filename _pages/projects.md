@@ -11,8 +11,9 @@ Onging Projects:
        style="max-width: 80px; border-radius: 10px; display: block; margin: 0 auto 10px;"/>
 
   <p style="font-size: 22px; margin-top: 10px;">
-    <strong> AI for Urban Planning with Satellite Data <br>
-    <span style="font-size: 16px; color: #555;"> Study on south Asia
+     <h3>AI for Urban Planning with Satellite Data</h3>
+    <span style="font-size: 16px; color: #555;"> 
+      <p>Study on South Asia: exploring how satellite imagery and AI can support informal settlement mapping and traffic planning.</p>
   </p>
 </div>
 

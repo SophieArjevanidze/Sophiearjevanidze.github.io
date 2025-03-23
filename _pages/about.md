@@ -4,7 +4,7 @@ permalink: /about/
 layout: default
 ---
 
-<img src="https://github.com/user-attachments/assets/c0f61ff7-522a-4fc2-adc7-4e1457b9d61d" alt="Profile" style="max-width: 100px; display: block; margin: 0 auto; border-radius: 8px;">
+<img src="https://github.com/user-attachments/assets/c0f61ff7-522a-4fc2-adc7-4e1457b9d61d" alt="Profile" style="max-width: 150px; display: block; margin: 0 auto; border-radius: 8px;">
 <div style="text-align: center; margin-bottom: 30px;">
   <img src="https://github.com/user-attachments/assets/c0f61ff7-522a-4fc2-adc7-4e1457b9d61d" 
        alt="Sophie Arjevanidze" 

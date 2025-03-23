@@ -4,7 +4,7 @@ title: ""
 excerpt: ""
 author_profile: true
 ---
-<div style="height: 60vh; display: flex; align-items: center; justify-content: center; text-align: center;">
+<div style="height: 40vh; display: flex; align-items: center; justify-content: center; text-align: center;">
   <div>
     <p style="font-size: 22px;">
       <strong>Policy Data Center is under construction.</strong><br>

@@ -1,1 +1,9 @@
+title: "Sophie Arjevanidze"
+description: "Digitalisation & Data Analytics Portfolio"
+theme: minima
 
+include:
+  - _pages
+
+markdown: kramdown
+permalink: pretty

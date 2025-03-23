@@ -5,15 +5,4 @@ layout: default
 ---
 ![Sophie_Arjevanidze](https://github.com/user-attachments/assets/c0f61ff7-522a-4fc2-adc7-4e1457b9d61d)
 
-Hello! I’m Sophie Arjevanidze, a researcher focused on digitalisation and data analytics.
-
-I’m passionate about using data-driven insights to inform public policy, optimise systems, and support social impact.
-
-### 💼 Interests
-- Data visualisation and storytelling  
-- Digital transformation in public sector  
-- Policy impact analysis  
-- Power BI, Python, and SQL for analytics
-
-### 📍 Currently based in:
-Paris, France
+As the founder of the Policy Data Center, I am driven by a passion for harnessing data to inform public policy and accelerate digital transformation. With a background in research and analytics, my mission is to bridge the gap between complex datasets and actionable insights that can shape better decisions in the public sector. This platform is a space to share our work, showcase data-driven projects, and collaborate on building more transparent, efficient, and evidence-based policy systems.

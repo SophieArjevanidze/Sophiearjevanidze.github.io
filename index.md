@@ -4,8 +4,11 @@ title: ""
 excerpt: ""
 author_profile: true
 ---
-
-<div style="padding-top: 120px; text-align: center; font-size: 20px;">  
-  <br>
-  Policy Data Center is under construction. We will add new projects soon!
+<div style="height: 60vh; display: flex; align-items: center; justify-content: center; text-align: center;">
+  <div>
+    <p style="font-size: 22px;">
+      <strong>Policy Data Center is under construction.</strong><br>
+      We will add new projects soon!
+    </p>
+  </div>
 </div>

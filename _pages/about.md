@@ -3,6 +3,7 @@ title: "About"
 permalink: /about/
 layout: default
 ---
+![Sophie_Arjevanidze](https://github.com/user-attachments/assets/c0f61ff7-522a-4fc2-adc7-4e1457b9d61d)
 
 Hello! I’m Sophie Arjevanidze, a researcher focused on digitalisation and data analytics.
 

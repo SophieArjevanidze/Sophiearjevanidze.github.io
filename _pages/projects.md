@@ -3,4 +3,7 @@ title: "Projects"
 permalink: /projects/
 layout: default
 ---
-New projects to be added soon!
+Onging Project:
+
+AI for Urban Planning with Satellite Data
+- Study on south Asia

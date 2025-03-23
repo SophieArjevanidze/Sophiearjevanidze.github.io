@@ -15,8 +15,6 @@ layout: default
   </p>
 </div>
 
-Sophie Arjevanidze
-
 The Policy Data Center serves as a platform to share our work, showcase data-driven projects, and foster collaboration around building more transparent, efficient, and evidence-based policy systems.
 Our mission is to bridge the gap between complex datasets and actionable insights that can empower better decision-making in the public sector. 
 We support developing countries in harnessing data to inform policy, while embracing the transformative potential of digital technologies for inclusive, accountable governance.

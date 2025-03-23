@@ -12,7 +12,7 @@ Onging Projects:
 
   <p style="font-size: 22px; margin-top: 10px;">
     <strong> AI for Urban Planning with Satellite Data <br>
-    <span style="font-size: 16px; color: #555;"> Study on south Asia
+    <span style="font-size: 16px; color: #555;">  - Study on south Asia
   </p>
 </div>
 
